@@ -1,6 +1,6 @@
 # Seamlessly integerate a one to one chat on your Laravel app
 
-This is a demo application showing how to notify users of their mentions in Chatkit. You can read more on how this was built [here](http://chatkit.com).
+This is a demo application showing how to notify users of their mentions in Chatkit. You can read more on how this was built [here](https://pusher.com/tutorials/one-to-one-chat-laravel).
 
 
 ![Sample working example](./screenshots/one-on-one.gif)
